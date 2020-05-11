@@ -1,2 +1,2 @@
 Puts " Hello World !" 
-Learn 
+Learn "tests"
