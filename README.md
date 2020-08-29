@@ -38,6 +38,7 @@ Execute this file by typing `ruby hello_world.rb` into your terminal and pressin
 Note: be sure to save your file before trying to print, otherwise it will not work.
 
 You should see:
+touch hello_world.rb
 
 ```bash
 $ ruby hello_world.rb
