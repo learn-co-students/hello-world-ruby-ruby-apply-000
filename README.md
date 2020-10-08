@@ -44,6 +44,7 @@ $ ruby hello_world.rb
 Hello World!
 ```
 
+
 ### Running Learn
 
 Confirm everything is working by running the `learn` command. You should see that all tests are passing (e.g. no red error text). 
